@@ -1,0 +1,4 @@
+P55_unblob_extractor;/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig;NA;NA;NA;;NA;ASCII text;0afc6a8f83bfd06a3f70205b9353a4a0;;
+P55_unblob_extractor;/logs/firmware/unblob_extracted/firmware_extract/formware.gpg;NA;NA;NA;;NA;PGP RSA encrypted session key - keyid: 2CCB98D7 CC0B5BCA RSA (Encrypt or Sign) 4096b;5b64f0fe7910ef013bdf899771a0534d;;
+P55_unblob_extractor;/logs/firmware/unblob_extracted/firmware_extract/metadata.json;NA;NA;NA;;NA;JSON text data;917c58ac900d498471de18a480ab7257;;
+P55_unblob_extractor;/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg.extracted/5E0CE86/image.riff;NA;NA;NA;;NA;RIFF (little-endian) data;bbff5afdbadfb9ebe81142049eb53811;;

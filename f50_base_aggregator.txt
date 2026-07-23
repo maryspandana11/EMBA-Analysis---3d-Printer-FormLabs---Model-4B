@@ -1,0 +1,19 @@
+[[0;34m+[0m] [0;36m[1mFinal aggregator[0m
+[1m=================================================================[0m
+The main aggregator module compiles and summarizes results from various analysis modules into a comprehensive overview by processing and logging detailed information from each identified element.
+
+
+[[0;32m+[0m][0;32m Tested firmware:[0;33m /home/emba/emba/form4-public-1.16.1-2955.formware2[0m[0m
+[[0;32m+[0m][0;32m EMBA start command:[0;33m ./emba -f ./form4-public-1.16.1-2955.formware2 -l ./FORMLABSPRINTER/ -p ./scan-profiles/full-scan.emba[0m[0m
+[[0;32m+[0m][0;32m EMBA version: [0;33m2.0.0 / branch master / commit d47d62032624186aef1336e88301d1aa7b86f6e7[0m[0m
+[[0;32m+[0m][0;32m Possible operating system detected ([0;33munverified[0;32m): [0;33mQNX - #437[0m[0m
+
+-----------------------------------------------------------------
+
+[[0;32m+[0m][0;32m [0;33m4[0;32m files and [0;33m10 [0;32mdirectories detected.[0m
+[[0;32m+[0m][0;32m Entropy analysis of binary firmware is: [0;33m7.999997 bits per byte.[0m
+[[0;32m+[0m][0;32m Entropy analysis of binary firmware is available:[0;33m /logs/firmware_entropy.png[0m
+[[0;32m+[0m][0;32m Found [0;33m9[0;32m yara rule matches in [0;33m0[0;32m files.[0m[0m
+
+-----------------------------------------------------------------
+

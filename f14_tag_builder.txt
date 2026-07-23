@@ -1,0 +1,9 @@
+[[0;34m+[0m] [0;36m[1mFinal Tag builder[0m
+[1m=================================================================[0m
+
+
+[[0;32m+[0m][0;32m Possible operating system detected ([0;33munverified[0;32m): [0;33mQNX - #437[0m[0m
+[[0;33m*[0m] Generated tags:
+    [0;33mEMBA[0m
+
+

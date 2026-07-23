@@ -1,0 +1,9 @@
+FW_path;/home/emba/emba/form4-public-1.16.1-2955.formware2;NA;NA;NA;NA;NA;NA;NA;
+emba_command;./emba -f ./form4-public-1.16.1-2955.formware2 -l ./FORMLABSPRINTER/ -p ./scan-profiles/full-scan.emba;NA;NA;NA;NA;NA;NA;NA;
+EMBA_version;2.0.0 / branch master / commit d47d62032624186aef1336e88301d1aa7b86f6e7;NA;NA;NA;NA;NA;NA;NA;
+os_verified;unknown;NA;NA;NA;NA;NA;NA;NA;
+os_unverified;QNX - #437;NA;NA;NA;NA;NA;NA;NA;
+files;4;NA;NA;NA;NA;NA;NA;NA;
+directories;10;NA;NA;NA;NA;NA;NA;NA;
+entropy_value;7.999997 bits per byte.;NA;NA;NA;NA;NA;NA;NA;
+yara_rules_match;9;NA;NA;NA;NA;NA;NA;NA;

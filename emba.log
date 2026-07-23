@@ -1,0 +1,150 @@
+[[0;33m*[0m] Wed Jul 15 22:09:55 UTC 2026 - EMBA main container a84b503c3c54a36b92c194f09e4b91146fbd3a2c95556075481cc98a9ee9fd79 monitoring through [0;33mdocker logs a84b503c3c54a36b92c194f09e4b91146fbd3a2c95556075481cc98a9ee9fd79 -f[0m.
+[[0;33m*[0m] Wed Jul 15 22:09:55 UTC 2026 - EMBA quest container 5dfa9e36c9e9f8c5fb40bd125a2ae5bed03157cd00f5be9c2901ce3495936ed7 monitoring through [0;33mdocker logs 5dfa9e36c9e9f8c5fb40bd125a2ae5bed03157cd00f5be9c2901ce3495936ed7 -f[0m.
+[[0;35m![0m][0;35m Wed Jul 15 22:10:01 UTC 2026 - Pre-checking phase started on Wed Jul 15 22:10:01 UTC 2026
+    [0mFirmware binary path: /firmware[0m
+[[0;33m*[0m] Wed Jul 15 22:10:01 UTC 2026 - P02_firmware_bin_file_check starting
+[[0;33m*[0m] Wed Jul 15 22:10:02 UTC 2026 - Q02_openai_question starting
+[[0;33m*[0m] Wed Jul 15 22:10:02 UTC 2026 - Q02_openai_question finished
+[[0;33m*[0m] Wed Jul 15 22:10:03 UTC 2026 - Quest container finished
+[[0;33m*[0m] Wed Jul 15 22:10:24 UTC 2026 - P02_firmware_bin_file_check finished
+[[0;33m*[0m] Wed Jul 15 22:10:26 UTC 2026 - P50_binwalk_extractor starting
+[[0;33m*[0m] Wed Jul 15 22:10:26 UTC 2026 - P50_binwalk_extractor finished
+[[0;33m*[0m] Wed Jul 15 22:10:27 UTC 2026 - P55_unblob_extractor starting
+[[0;33m*[0m] Wed Jul 15 22:11:30 UTC 2026 - P55_unblob_extractor finished
+[[0;33m*[0m] Wed Jul 15 22:11:30 UTC 2026 - P60_deep_extractor starting
+[[0;33m*[0m] Wed Jul 15 22:12:46 UTC 2026 - P60_deep_extractor finished
+[[0;33m*[0m] Wed Jul 15 22:12:46 UTC 2026 - P65_package_extractor starting
+[[0;33m*[0m] Wed Jul 15 22:12:48 UTC 2026 - P65_package_extractor finished
+[[0;33m*[0m] Wed Jul 15 22:12:48 UTC 2026 - P99_prepare_analyzer starting
+[[0;33m*[0m] Wed Jul 15 22:12:52 UTC 2026 - P99_prepare_analyzer finished
+[[0;35m![0m][0;35m Wed Jul 15 22:12:52 UTC 2026 - Pre-checking phase ended on Wed Jul 15 22:12:52 UTC 2026 and took about 0 days and 00:02:57 
+[0m
+[[0;35m![0m][0;35m Wed Jul 15 22:12:52 UTC 2026 - Testing phase started on Wed Jul 15 22:12:52 UTC 2026
+    [0mFirmware path: /logs/firmware[0m
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S26_kernel_vuln_verifier starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S24_kernel_bin_identifier starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S12_binary_protection starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S09_firmware_base_version_check starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S02_uefi_fwhunt starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S03_firmware_bin_base_analyzer starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S04_windows_basic_analysis starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S05_firmware_details starting
+[[0;33m*[0m] Wed Jul 15 22:12:55 UTC 2026 - S06_distribution_identification starting
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S07_bootloader_check starting
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S02_UEFI_FwHunt finished
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S12_binary_protection finished
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S04_windows_basic_analysis finished
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S08_main_package_sbom starting
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S10_binaries_basic_check starting
+[[0;33m*[0m] Wed Jul 15 22:12:56 UTC 2026 - S13_weak_func_check starting
+[[0;33m*[0m] Wed Jul 15 22:12:58 UTC 2026 - S13_weak_func_check finished
+[[0;33m*[0m] Wed Jul 15 22:12:58 UTC 2026 - S06_distribution_identification finished
+[[0;33m*[0m] Wed Jul 15 22:12:59 UTC 2026 - S14_weak_func_radare_check starting
+[[0;33m*[0m] Wed Jul 15 22:12:59 UTC 2026 - S10_binaries_basic_check finished
+[[0;33m*[0m] Wed Jul 15 22:12:59 UTC 2026 - S05_firmware_details finished
+[[0;33m*[0m] Wed Jul 15 22:12:59 UTC 2026 - S15_radare_decompile_checks starting
+[[0;33m*[0m] Wed Jul 15 22:13:00 UTC 2026 - S16_ghidra_decompile_checks starting
+[[0;33m*[0m] Wed Jul 15 22:13:00 UTC 2026 - S17_cwe_checker starting
+[[0;33m*[0m] Wed Jul 15 22:13:00 UTC 2026 - S07_bootloader_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:00 UTC 2026 - S14_weak_func_radare_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:00 UTC 2026 - S15_radare_decompile_checks finished
+[[0;33m*[0m] Wed Jul 15 22:13:01 UTC 2026 - S18_capa_checker starting
+[[0;33m*[0m] Wed Jul 15 22:13:01 UTC 2026 - S19_apk_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:01 UTC 2026 - S16_ghidra_decompile_checks finished
+[[0;33m*[0m] Wed Jul 15 22:13:01 UTC 2026 - S17_cwe_checker finished
+[[0;33m*[0m] Wed Jul 15 22:13:01 UTC 2026 - S20_shell_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:02 UTC 2026 - S18_capa_checker finished
+[[0;33m*[0m] Wed Jul 15 22:13:02 UTC 2026 - S19_apk_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:02 UTC 2026 - S21_python_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:03 UTC 2026 - S22_php_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:03 UTC 2026 - S23_lua_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:03 UTC 2026 - S25_kernel_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:04 UTC 2026 - S21_python_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:05 UTC 2026 - S27_perl_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:05 UTC 2026 - S23_lua_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:06 UTC 2026 - S28_java_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:06 UTC 2026 - S27_perl_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:07 UTC 2026 - S35_http_file_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:07 UTC 2026 - S28_java_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:08 UTC 2026 - S36_lighttpd starting
+[[0;33m*[0m] Wed Jul 15 22:13:08 UTC 2026 - S24_kernel_bin_identifier finished
+[[0;33m*[0m] Wed Jul 15 22:13:09 UTC 2026 - S40_weak_perm_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:10 UTC 2026 - S08_main_package_sbom finished
+[[0;33m*[0m] Wed Jul 15 22:13:10 UTC 2026 - S26_kernel_vuln_verifier finished
+[[0;33m*[0m] Wed Jul 15 22:13:10 UTC 2026 - S35_http_file_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:11 UTC 2026 - S25_kernel_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:11 UTC 2026 - S45_pass_file_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:11 UTC 2026 - S50_authentication_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:11 UTC 2026 - S36_lighttpd finished
+[[0;33m*[0m] Wed Jul 15 22:13:11 UTC 2026 - S55_history_file_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:12 UTC 2026 - S60_cert_file_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:12 UTC 2026 - S03_firmware_bin_base_analyzer finished
+[[0;33m*[0m] Wed Jul 15 22:13:12 UTC 2026 - S65_config_file_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:12 UTC 2026 - S45_pass_file_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:12 UTC 2026 - S40_weak_perm_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:13 UTC 2026 - S55_history_file_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:13 UTC 2026 - S75_network_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:13 UTC 2026 - S80_cronjob_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:13 UTC 2026 - S20_shell_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:13 UTC 2026 - S85_ssh_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:13 UTC 2026 - S60_cert_file_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:14 UTC 2026 - S90_mail_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:14 UTC 2026 - S95_interesting_files_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:14 UTC 2026 - S80_cronjob_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:14 UTC 2026 - S99_grepit starting
+[[0;33m*[0m] Wed Jul 15 22:13:14 UTC 2026 - S65_config_file_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:15 UTC 2026 - S100_command_inj_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:15 UTC 2026 - S90_mail_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:15 UTC 2026 - S106_deep_key_search starting
+[[0;33m*[0m] Wed Jul 15 22:13:15 UTC 2026 - S75_network_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:16 UTC 2026 - S107_deep_password_search starting
+[[0;33m*[0m] Wed Jul 15 22:13:16 UTC 2026 - S85_ssh_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:16 UTC 2026 - S108_stacs_password_search starting
+[[0;33m*[0m] Wed Jul 15 22:13:16 UTC 2026 - S95_interesting_files_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:16 UTC 2026 - S100_command_inj_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:17 UTC 2026 - S109_jtr_local_pw_cracking starting
+[[0;33m*[0m] Wed Jul 15 22:13:17 UTC 2026 - S110_yara_check starting
+[[0;33m*[0m] Wed Jul 15 22:13:17 UTC 2026 - S115_usermode_emulator starting
+[[0;33m*[0m] Wed Jul 15 22:13:18 UTC 2026 - S22_php_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:18 UTC 2026 - S107_deep_password_search finished
+[[0;33m*[0m] Wed Jul 15 22:13:19 UTC 2026 - S50_authentication_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:19 UTC 2026 - S116_qemu_version_detection starting
+[[0;33m*[0m] Wed Jul 15 22:13:19 UTC 2026 - S115_usermode_emulator finished
+[[0;33m*[0m] Wed Jul 15 22:13:19 UTC 2026 - S118_busybox_verifier starting
+[[0;33m*[0m] Wed Jul 15 22:13:19 UTC 2026 - S116_qemu_version_detection finished
+[[0;33m*[0m] Wed Jul 15 22:13:20 UTC 2026 - S106_deep_key_search finished
+[[0;33m*[0m] Wed Jul 15 22:13:50 UTC 2026 - S09_firmware_base_version_check finished
+[[0;33m*[0m] Wed Jul 15 22:13:51 UTC 2026 - S118_busybox_verifier finished
+[[0;33m*[0m] Wed Jul 15 22:14:12 UTC 2026 - S108_stacs_password_search finished
+[[0;33m*[0m] Wed Jul 15 22:14:13 UTC 2026 - S109_jtr_local_pw_cracking finished
+[[0;33m*[0m] Wed Jul 15 22:16:37 UTC 2026 - S110_yara_check finished
+[[0;33m*[0m] Wed Jul 15 22:36:02 UTC 2026 - S99_grepit finished
+[[0;35m![0m][0;35m Wed Jul 15 22:36:02 UTC 2026 - Testing phase ended on Wed Jul 15 22:36:02 UTC 2026 and took about 0 days and 00:26:07 
+[0m
+[[0;35m![0m][0;35m Wed Jul 15 22:36:03 UTC 2026 - System emulation phase started on Wed Jul 15 22:36:03 UTC 2026
+    [0mFirmware path: /logs/firmware[0m
+[[0;33m*[0m] Wed Jul 15 22:36:03 UTC 2026 - L10_system_emulation starting
+[[0;33m*[0m] Wed Jul 15 22:36:04 UTC 2026 - L10_system_emulation finished
+[[0;35m![0m][0;35m Wed Jul 15 22:36:05 UTC 2026 - System emulation phase ended on Wed Jul 15 22:36:05 UTC 2026 and took about 0 days and 00:26:10 
+[0m
+[[0;35m![0m][0;35m Wed Jul 15 22:36:05 UTC 2026 - Reporting phase started on Wed Jul 15 22:36:05 UTC 2026
+[0m
+[[0;33m*[0m] Wed Jul 15 22:36:05 UTC 2026 - F02_toolchain starting
+[[0;33m*[0m] Wed Jul 15 22:36:07 UTC 2026 - F02_toolchain finished
+[[0;33m*[0m] Wed Jul 15 22:36:08 UTC 2026 - F05_qs_resolver starting
+[[0;33m*[0m] Wed Jul 15 22:36:10 UTC 2026 - F05_qs_resolver finished
+[[0;33m*[0m] Wed Jul 15 22:36:10 UTC 2026 - F10_license_summary starting
+[[0;33m*[0m] Wed Jul 15 22:36:11 UTC 2026 - F10_license_summary finished
+[[0;33m*[0m] Wed Jul 15 22:36:12 UTC 2026 - F14_tag_builder starting
+[[0;33m*[0m] Wed Jul 15 22:36:15 UTC 2026 - F14_tag_builder finished
+[[0;33m*[0m] Wed Jul 15 22:36:15 UTC 2026 - F15_cyclonedx_sbom starting
+[[0;33m*[0m] Wed Jul 15 22:36:16 UTC 2026 - F15_cyclonedx_sbom finished
+[[0;33m*[0m] Wed Jul 15 22:36:16 UTC 2026 - F17_cve_bin_tool starting
+[[0;33m*[0m] Wed Jul 15 22:36:17 UTC 2026 - F17_cve_bin_tool finished
+[[0;33m*[0m] Wed Jul 15 22:36:18 UTC 2026 - F50_base_aggregator starting
+[[0;33m*[0m] Wed Jul 15 22:36:25 UTC 2026 - F50_base_aggregator finished
+[[0;35m![0m][0;35m Wed Jul 15 22:36:26 UTC 2026 - Test ended on Wed Jul 15 22:36:26 UTC 2026 and took about 0 days and 00:26:31 
+[0m
+[[0;33m*[0m] Wed Jul 15 22:36:43 UTC 2026 - Access the web-report with [0;33mfirefox /home/emba/emba/FORMLABSPRINTER/html-report/index.html[0m
+[[0;35m![0m][0;35m Wed Jul 15 22:36:44 UTC 2026 - Test ended on Wed Jul 15 22:36:44 UTC 2026 and took about 0 days and 00:27:08 
+[0m

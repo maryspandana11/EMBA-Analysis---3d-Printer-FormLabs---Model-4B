@@ -1,0 +1,2 @@
+[[0;31m-[0m] Binwalk v3 has issues with symbolic links and is disabled for system emulation
+[[0;31m-[0m] Wed Jul 15 22:10:26 UTC 2026 - P50_binwalk_extractor nothing reported
