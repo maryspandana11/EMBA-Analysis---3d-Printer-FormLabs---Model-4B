@@ -1,0 +1,19 @@
+[[0;33m*[0m] Searching (args for grep: [0;33m-i[0m) for [0;33msign.{0,20}key[0m.
+[[0;33m*[0m] Grepit state info - comment: [0;33mSigning key and variants of it[0m
+[[0;33m*[0m] Grepit state info - Filename [0;33m2_cryptocred_sign_key.txt[0m
+[[0;33m*[0m] Grepit state info - Example: [0;33msign the key[0m
+[[0;33m*[0m] Grepit state info - False positive example: [0;33mFALSE_POSITIVES_EXAMPLE_PLACEHOLDER[0m
+[[0;33m*[0m] Grepit state info - Grep args: [0;33m-i[0m
+[[0;33m*[0m] Grepit state info - Search regex: [0;33msign.{0,20}key[0m
+
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig[m[36m:[m[32m1[m[36m:[muntrusted comment: signature from mini[01;31msign secret key[m
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig[m[36m-[m[32m2[m[36m-[mRWS2L5TUcswzLJagi3Nq1jjatjuudufO2PDDGd4skRNxjPA0VkSzSv0mEtsMWiEp25X4oMbSyDSb71wgJLaPSkpT+UvjIoqungw=
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m4[m[36m-[m"FirmwareVersion": "1.16.1-2955",
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m5[m[36m-[m"b2sum": "7d64edf8f7048791112afaacf33a2aa1906deff5bcbf27770af606b4ce508367ff36c83f437ed1db20acc39c611c86a83600c03bf12071602ebdbc3fe192415d"
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m6[m[36m-[m}
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m:[m[32m7[m[36m:[mmetadata.json.minisig0000644000000000000000000000045515214621723013674 0ustar  rootrootuntrusted comment: signature from mini[01;31msign secret key[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m8[m[36m-[mRWS2L5TUcswzLJagi3Nq1jjatjuudufO2PDDGd4skRNxjPA0VkSzSv0mEtsMWiEp25X4oMbSyDSb71wgJLaPSkpT+UvjIoqungw=
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json.minisig[m[36m:[m[32m1[m[36m:[muntrusted comment: signature from mini[01;31msign secret key[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json.minisig[m[36m-[m[32m2[m[36m-[mRWS2L5TUcswzLJagi3Nq1jjatjuudufO2PDDGd4skRNxjPA0VkSzSv0mEtsMWiEp25X4oMbSyDSb71wgJLaPSkpT+UvjIoqungw=

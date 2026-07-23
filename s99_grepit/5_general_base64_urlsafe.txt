@@ -1,0 +1,23 @@
+[[0;33m*[0m] Searching (args for grep: [0;33m[0m) for [0;33m(?:[A-Za-z0-9_-]{4}){2,}(?:[A-Za-z0-9_-]{2}==|[A-Za-z0-9_-]{3}=)[0m.
+[[0;33m*[0m] Grepit state info - comment: [0;33mBase64 URL-safe encoded data (that is more than 6 bytes long). To get from URL-safe base64 to regular base64 you need .replace('-','+').replace('_','/'). This regex won't detect a base64 encoded value over several lines and won't detect one that does not end with an equal sign...[0m
+[[0;33m*[0m] Grepit state info - Filename [0;33m5_general_base64_urlsafe.txt[0m
+[[0;33m*[0m] Grepit state info - Example: [0;33mYScqKyo6LV_Dpw==[0m
+[[0;33m*[0m] Grepit state info - False positive example: [0;33m/target/ //JQLite - the following ones shouldnt be an issue anymore as we require more than 6 bytes: done echo else gen/ ////[0m
+[[0;33m*[0m] Grepit state info - Grep args: [0;33m[0m
+[[0;33m*[0m] Grepit state info - Search regex: [0;33m(?:[A-Za-z0-9_-]{4}){2,}(?:[A-Za-z0-9_-]{2}==|[A-Za-z0-9_-]{3}=)[0m
+
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig[m[36m-[m[32m1[m[36m-[muntrusted comment: signature from minisign secret key
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig[m[36m-[m[32m2[m[36m-[mRWS2L5TUcswzLJagi3Nq1jjatjuudufO2PDDGd4skRNxjPA0VkSzSv0mEtsMWiEp25X4oMbSyDSb71wgJLaPSkpT+UvjIoqungw=
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig[m[36m-[m[32m3[m[36m-[mtrusted comment: timestamp:1781736403	file:metadata.json
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json.minisig[m[36m:[m[32m4[m[36m:[m5xy9e7n2Y3blNrBd4gpFKS6znAz1EGxCyy0MWYKatLsl1KkmQELumGTvo/OSgPW/8U1De/e[01;31ms2dMaRx4lfu67Bw=[m=
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m7[m[36m-[mmetadata.json.minisig0000644000000000000000000000045515214621723013674 0ustar  rootrootuntrusted comment: signature from minisign secret key
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m8[m[36m-[mRWS2L5TUcswzLJagi3Nq1jjatjuudufO2PDDGd4skRNxjPA0VkSzSv0mEtsMWiEp25X4oMbSyDSb71wgJLaPSkpT+UvjIoqungw=
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m9[m[36m-[mtrusted comment: timestamp:1781736403	file:metadata.json
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m:[m[32m10[m[36m:[m5xy9e7n2Y3blNrBd4gpFKS6znAz1EGxCyy0MWYKatLsl1KkmQELumGTvo/OSgPW/8U1De/e[01;31ms2dMaRx4lfu67Bw=[m=
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m11[m[36m-[mformware.gpg0000644000175000017500261353751015214621706010352 0ustar  ,˘[ólÍJtkcӘC;zoB(y>]#TСM(ی?"uH)yd^St{>[[%""DN$Z
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json.minisig[m[36m-[m[32m1[m[36m-[muntrusted comment: signature from minisign secret key
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json.minisig[m[36m-[m[32m2[m[36m-[mRWS2L5TUcswzLJagi3Nq1jjatjuudufO2PDDGd4skRNxjPA0VkSzSv0mEtsMWiEp25X4oMbSyDSb71wgJLaPSkpT+UvjIoqungw=
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json.minisig[m[36m-[m[32m3[m[36m-[mtrusted comment: timestamp:1781736403	file:metadata.json
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json.minisig[m[36m:[m[32m4[m[36m:[m5xy9e7n2Y3blNrBd4gpFKS6znAz1EGxCyy0MWYKatLsl1KkmQELumGTvo/OSgPW/8U1De/e[01;31ms2dMaRx4lfu67Bw=[m=

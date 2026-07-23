@@ -1,0 +1,25 @@
+[[0;33m*[0m] Searching (args for grep: [0;33m[0m) for [0;33m[0-7][0-9a-f]{7}[0-7][0-9a-f]{7}[0m.
+[[0;33m*[0m] Grepit state info - comment: [0;33mMySQL old style hash[0m
+[[0;33m*[0m] Grepit state info - Filename [0;33m3_cryptocred_mysql_old_hashes.txt[0m
+[[0;33m*[0m] Grepit state info - Example: [0;33mpass="6f8c114b58f2ce9e"[0m
+[[0;33m*[0m] Grepit state info - False positive example: [0;33mFALSE_POSITIVES_EXAMPLE_PLACEHOLDER[0m
+[[0;33m*[0m] Grepit state info - Grep args: [0;33m[0m
+[[0;33m*[0m] Grepit state info - Search regex: [0;33m[0-7][0-9a-f]{7}[0-7][0-9a-f]{7}[0m
+
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json[m[36m-[m[32m2[m[36m-[m"FormwareFileFormatVersion": 1,
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json[m[36m-[m[32m3[m[36m-[m"CompatibleMachineTypeIds": ["FORM-4-0", "FRML-4-0"],
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json[m[36m-[m[32m4[m[36m-[m"FirmwareVersion": "1.16.1-2955",
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json[m[36m:[m[32m5[m[36m:[m"b2sum": "7d[01;31m64edf8f704879111[m[01;31m2afaacf33a2aa190[m6deff[01;31m5bcbf27770af606b[m[01;31m4ce508367ff36c83[mf[01;31m437ed1db20acc39c[m[01;31m611c86a83600c03b[mf12071[01;31m602ebdbc3fe19241[m5d"
+[35m/logs/firmware/unblob_extracted/firmware_extract/metadata.json[m[36m-[m[32m6[m[36m-[m}
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m2[m[36m-[m"FormwareFileFormatVersion": 1,
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m3[m[36m-[m"CompatibleMachineTypeIds": ["FORM-4-0", "FRML-4-0"],
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m4[m[36m-[m"FirmwareVersion": "1.16.1-2955",
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m:[m[32m5[m[36m:[m"b2sum": "7d[01;31m64edf8f704879111[m[01;31m2afaacf33a2aa190[m6deff[01;31m5bcbf27770af606b[m[01;31m4ce508367ff36c83[mf[01;31m437ed1db20acc39c[m[01;31m611c86a83600c03b[mf12071[01;31m602ebdbc3fe19241[m5d"
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m6[m[36m-[m}
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json[m[36m-[m[32m2[m[36m-[m"FormwareFileFormatVersion": 1,
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json[m[36m-[m[32m3[m[36m-[m"CompatibleMachineTypeIds": ["FORM-4-0", "FRML-4-0"],
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json[m[36m-[m[32m4[m[36m-[m"FirmwareVersion": "1.16.1-2955",
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json[m[36m:[m[32m5[m[36m:[m"b2sum": "7d[01;31m64edf8f704879111[m[01;31m2afaacf33a2aa190[m6deff[01;31m5bcbf27770af606b[m[01;31m4ce508367ff36c83[mf[01;31m437ed1db20acc39c[m[01;31m611c86a83600c03b[mf12071[01;31m602ebdbc3fe19241[m5d"
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/metadata.json[m[36m-[m[32m6[m[36m-[m}

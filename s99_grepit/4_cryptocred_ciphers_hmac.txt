@@ -1,0 +1,31 @@
+[[0;33m*[0m] Searching (args for grep: [0;33m-i[0m) for [0;33mHMAC[0m.
+[[0;33m*[0m] Grepit state info - comment: [0;33mHMAC. Security depends heavily on usage and what is secured.[0m
+[[0;33m*[0m] Grepit state info - Filename [0;33m4_cryptocred_ciphers_hmac.txt[0m
+[[0;33m*[0m] Grepit state info - Example: [0;33mHMAC[0m
+[[0;33m*[0m] Grepit state info - False positive example: [0;33mFALSE_POSITIVES_EXAMPLE_PLACEHOLDER[0m
+[[0;33m*[0m] Grepit state info - Grep args: [0;33m-i[0m
+[[0;33m*[0m] Grepit state info - Search regex: [0;33mHMAC[0m
+
+[35m/logs/firmware/unblob_extracted/firmware_extract/formware.gpg[m[36m-[m[32m395673[m[36m-[m?WNw7b_9hP[U؏m1`;r*U:Iｶ}Q`S!m)are|
+[35m/logs/firmware/unblob_extracted/firmware_extract/formware.gpg[m[36m-[m[32m395674[m[36m-[m΂` =k0Jv5HHWI9]Wq8TZD޼}_~ARnJ<:>!XDXx^|oGcOɃ#AZ?Cˉ
+[35m/logs/firmware/unblob_extracted/firmware_extract/formware.gpg[m[36m-[m[32m395675[m[36m-[m]ynL֔;0[=#)+~SW"@zJqH'eSEL~{2d$2BF$MNe*͙,ұ\0*h*Y6x.E{shߕnUxBJabѾ%ySLOx7W.||Y7+{LY\RMa$Gd%`}ss|,	9(K8j4͐4H|9! t_+*E2KKAyYFD4*s}娅|"`|9vURTNi",_-x`Qz@Ɔjg1FSDaIRR~㘞i|
+[35m/logs/firmware/unblob_extracted/firmware_extract/formware.gpg[m[36m:[m[32m395676[m[36m:[m9bNX mtsR/"@_xD3\ܔw1gKg`ؠf]'Uz֋ $*VUeraepE+ʼHN%X󭡡c #'Hp -5{^kp#GJ@AyFA0m_gRUpۉDvGZ^Ft'5BߵY1SKEhOBl<ҙvm"(S`ƌ[F		_K#ZWYu1a)IniɥemFVx8z^3BGG\۵vו."IQTzU<9i?<Ө`Va;<+]1mWP.e[01;31mhMAc[mֶ)~؅f)xh
+[35m/logs/firmware/unblob_extracted/firmware_extract/formware.gpg[m[36m-[m[32m395677[m[36m-[mcs1_QˉdyY^9#-unX4H}-@"BY.F2!5fICHa-roTSXK/g<1Tb%e@^3&er8jSV߮\{tϕg$Du"l
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m395683[m[36m-[m?WNw7b_9hP[U؏m1`;r*U:Iｶ}Q`S!m)are|
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m395684[m[36m-[m΂` =k0Jv5HHWI9]Wq8TZD޼}_~ARnJ<:>!XDXx^|oGcOɃ#AZ?Cˉ
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m395685[m[36m-[m]ynL֔;0[=#)+~SW"@zJqH'eSEL~{2d$2BF$MNe*͙,ұ\0*h*Y6x.E{shߕnUxBJabѾ%ySLOx7W.||Y7+{LY\RMa$Gd%`}ss|,	9(K8j4͐4H|9! t_+*E2KKAyYFD4*s}娅|"`|9vURTNi",_-x`Qz@Ɔjg1FSDaIRR~㘞i|
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m:[m[32m395686[m[36m:[m9bNX mtsR/"@_xD3\ܔw1gKg`ؠf]'Uz֋ $*VUeraepE+ʼHN%X󭡡c #'Hp -5{^kp#GJ@AyFA0m_gRUpۉDvGZ^Ft'5BߵY1SKEhOBl<ҙvm"(S`ƌ[F		_K#ZWYu1a)IniɥemFVx8z^3BGG\۵vו."IQTzU<9i?<Ө`Va;<+]1mWP.e[01;31mhMAc[mֶ)~؅f)xh
+[35m/logs/firmware/binwalk_recover_extracted/firmware_0_tarball.raw[m[36m-[m[32m395687[m[36m-[mcs1_QˉdyY^9#-unX4H}-@"BY.F2!5fICHa-roTSXK/g<1Tb%e@^3&er8jSV߮\{tϕg$Du"l
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg[m[36m-[m[32m395673[m[36m-[m?WNw7b_9hP[U؏m1`;r*U:Iｶ}Q`S!m)are|
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg[m[36m-[m[32m395674[m[36m-[m΂` =k0Jv5HHWI9]Wq8TZD޼}_~ARnJ<:>!XDXx^|oGcOɃ#AZ?Cˉ
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg[m[36m-[m[32m395675[m[36m-[m]ynL֔;0[=#)+~SW"@zJqH'eSEL~{2d$2BF$MNe*͙,ұ\0*h*Y6x.E{shߕnUxBJabѾ%ySLOx7W.||Y7+{LY\RMa$Gd%`}ss|,	9(K8j4͐4H|9! t_+*E2KKAyYFD4*s}娅|"`|9vURTNi",_-x`Qz@Ɔjg1FSDaIRR~㘞i|
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg[m[36m:[m[32m395676[m[36m:[m9bNX mtsR/"@_xD3\ܔw1gKg`ؠf]'Uz֋ $*VUeraepE+ʼHN%X󭡡c #'Hp -5{^kp#GJ@AyFA0m_gRUpۉDvGZ^Ft'5BߵY1SKEhOBl<ҙvm"(S`ƌ[F		_K#ZWYu1a)IniɥemFVx8z^3BGG\۵vו."IQTzU<9i?<Ө`Va;<+]1mWP.e[01;31mhMAc[mֶ)~؅f)xh
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg[m[36m-[m[32m395677[m[36m-[mcs1_QˉdyY^9#-unX4H}-@"BY.F2!5fICHa-roTSXK/g<1Tb%e@^3&er8jSV߮\{tϕg$Du"l
+[36m--[m
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg_99690390_unknown.raw[m[36m-[m[32m7094[m[36m-[m?WNw7b_9hP[U؏m1`;r*U:Iｶ}Q`S!m)are|
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg_99690390_unknown.raw[m[36m-[m[32m7095[m[36m-[m΂` =k0Jv5HHWI9]Wq8TZD޼}_~ARnJ<:>!XDXx^|oGcOɃ#AZ?Cˉ
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg_99690390_unknown.raw[m[36m-[m[32m7096[m[36m-[m]ynL֔;0[=#)+~SW"@zJqH'eSEL~{2d$2BF$MNe*͙,ұ\0*h*Y6x.E{shߕnUxBJabѾ%ySLOx7W.||Y7+{LY\RMa$Gd%`}ss|,	9(K8j4͐4H|9! t_+*E2KKAyYFD4*s}娅|"`|9vURTNi",_-x`Qz@Ɔjg1FSDaIRR~㘞i|
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg_99690390_unknown.raw[m[36m:[m[32m7097[m[36m:[m9bNX mtsR/"@_xD3\ܔw1gKg`ؠf]'Uz֋ $*VUeraepE+ʼHN%X󭡡c #'Hp -5{^kp#GJ@AyFA0m_gRUpۉDvGZ^Ft'5BߵY1SKEhOBl<ҙvm"(S`ƌ[F		_K#ZWYu1a)IniɥemFVx8z^3BGG\۵vו."IQTzU<9i?<Ө`Va;<+]1mWP.e[01;31mhMAc[mֶ)~؅f)xh
+[35m/logs/firmware/binwalk_recover_extracted/firmware.extracted/0/formware.gpg_99690390_unknown.raw[m[36m-[m[32m7098[m[36m-[mcs1_QˉdyY^9#-unX4H}-@"BY.F2!5fICHa-roTSXK/g<1Tb%e@^3&er8jSV߮\{tϕg$Du"l
